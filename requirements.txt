@@ -1,0 +1,5 @@
+azure-ai-formrecognizer==3.2.1
+azure-identity==1.13.0
+python-dotenv==1.0.0
+autopep8==1.5.7
+openai==0.27.7
